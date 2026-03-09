@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Nguyễn Minh Hiếu 👋
 
-<!--
-**nmhuei/nmhuei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A wanderer who once passed through a university, carrying more questions than answers.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍 Cầu Giấy, Hà Nội
+- 🛠️ Building small bots and automation tools
+- 🌱 Learning by shipping
+
+## Featured project
+
+- [zalo-zca-bot](https://github.com/nmhuei/zalo-zca-bot) — unofficial Zalo bot using `zca-js`
+
+---
+
+Thanks for stopping by ⭐
