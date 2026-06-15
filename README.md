@@ -14,7 +14,7 @@
 
 > *"Decrypting complexity, automating the future."*
 
-Bonjour, je suis étudiante 👋 I am focusing on the intersection of **AI & Cyber Security**, with active interests in **Computer Vision**, **Speech-to-Text**, and building custom automation tools.
+Bonjour, je suis étudiante 👋 I am focusing on the intersection of **AI & Cyber Security**.
 
 - 🏠 **Location:** Cầu Giấy, Hà Nội, Vietnam
 - 🌱 **Philosophy:** "Learning by shipping" — building real things to master complex systems.
