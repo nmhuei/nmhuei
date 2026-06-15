@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Software+Developer;Reverse+Engineering+Enthusiast;AI+%26+MCP+Builder;Learner+by+shipping..." alt="Typing SVG" />
+</p>
+
+<p align="center">
   <b>A wanderer who once passed through a university, carrying more questions than answers.</b><br>
   <sub>Driven by curiosity, security, and building automation.</sub>
 </p>
