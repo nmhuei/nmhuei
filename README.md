@@ -45,6 +45,16 @@
 *   **[telefs](https://github.com/nmhuei/telefs)** — **TeleFS** (Telegram File System) — Using Telegram's storage capability as an interactive filesystem.
 *   **[Turnstile-Solver](https://github.com/nmhuei/Turnstile-Solver)** — Python-based solution for bypassing Cloudflare Turnstile challenges.
 
+### 🐍 Snake Eating My Contribution Board
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nmhuei/nmhuei/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nmhuei/nmhuei/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nmhuei/nmhuei/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 ---
 
 ### 📊 GitHub Stats
