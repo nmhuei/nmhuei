@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="./assets/github_profile_banner.jpg" alt="Nguyễn Minh Hiếu - AI & MCP Builder | Reverse Engineer" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Software+Developer;Reverse+Engineering+Enthusiast;AI+%26+MCP+Builder;Learner+by+shipping..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&width=600&height=50&lines=INITIALIZING...;HELLO%2C+I'M+MINH+HIEU;REVERSE+ENGINEER;AI+%26+MCP+DEVELOPER;LEARN+BY+SHIPPING..." alt="Typing SVG" />
 </p>
 
 <p align="center">
