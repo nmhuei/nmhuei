@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&width=600&height=50&lines=INITIALIZING...;Hello%2C+i'm+Huei;REVERSE+ENGINEER;AI+%26+MCP+DEVELOPER;LEARN+BY+SHIPPING..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&width=600&height=50&lines=INITIALIZING...;Hello%2C+i'm+Huei;AI+CYBER+SECURITY;REVERSE+ENGINEER;LEARN+BY+SHIPPING..." alt="Typing SVG" />
 </p>
 
 <p align="center">
   <b>A wanderer who once passed through a university, carrying more questions than answers.</b><br>
-  <sub>Driven by curiosity, security, and building automation.</sub>
+  <sub>Driven by curiosity, security, and AI automation.</sub>
 </p>
 
 <p align="center">
@@ -17,10 +17,12 @@
 
 ### 📍 About Me
 
+I am a **Security Researcher & AI Developer** focusing on the intersection of **Artificial Intelligence and Cyber Security**. I build autonomous agents, design Model Context Protocol (MCP) servers to automate binary analysis, and develop tools to streamline vulnerability research.
+
 - 🏠 **Location:** Cầu Giấy, Hà Nội, Vietnam
-- 🛠️ **Focus:** Reverse engineering, building automation, chat bots, and AI agents.
-- 🌱 **Philosophy:** "Learning by shipping" — building real tools to understand complex concepts.
-- 🤖 **Interests:** Model Context Protocol (MCP), LLM integration, and software security.
+- 🛡️ **Core Focus:** AI-powered Reverse Engineering, Vulnerability Auditing, & Smart Automation.
+- 🤖 **Specialties:** Model Context Protocol (MCP), LLM agents, and custom security tooling.
+- 🌱 **Philosophy:** *"Learning by shipping"* — I believe the best way to understand security concepts and AI mechanics is by building and deploying functional tools.
 
 ---
 
