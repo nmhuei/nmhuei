@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&width=600&height=50&lines=INITIALIZING...;Hello%2C+i'm+Huei;AI+CYBER+SECURITY;REVERSE+ENGINEER;LEARN+BY+SHIPPING..." alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <b>A wanderer who once passed through a university, carrying more questions than answers.</b><br>
-  <sub>Driven by curiosity, security, and AI automation.</sub>
-</p>
 
 <p align="center">
   <a href="https://github.com/nmhuei">
