@@ -1,11 +1,12 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&width=600&height=50&lines=INITIALIZING...;Hello%2C+i'm+Huei;AI+CYBER+SECURITY;REVERSE+ENGINEER;LEARN+BY+SHIPPING..." alt="Typing SVG" />
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3500&pause=1000&color=39FF14&center=false&vCenter=true&width=600&height=50&lines=INITIALIZING...;Hello%2C+i'm+Huei;AI+CYBER+SECURITY;REVERSE+ENGINEER;LEARN+BY+SHIPPING..." alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2000&color=39FF14&center=true&vCenter=true&width=400&height=30&lines=%5B%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%5D+0%25%3B%5B%E2%96%88%E2%96%88%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%5D+20%25%3B%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%5D+50%25%3B%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%92%E2%96%92%5D+80%25%3B%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25" alt="Progress Bar" />
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2000&color=39FF14&center=false&vCenter=true&width=400&height=30&lines=%5B%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%5D+0%25%3B%5B%E2%96%88%E2%96%88%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%5D+20%25%3B%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%5D+50%25%3B%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%92%E2%96%92%5D+80%25%3B%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25" alt="Progress Bar" />
 </p>
-<p align="center">
+
+<p align="left">
   <a href="https://github.com/nmhuei">
     <img src="https://img.shields.io/github/followers/nmhuei?label=Followers&style=social" alt="GitHub followers">
   </a>
@@ -21,8 +22,6 @@ Bonjour, je suis étudiante 👋 I am focusing on the intersection of **AI & Cyb
 
 - 🏠 **Location:** Cầu Giấy, Hà Nội, Vietnam
 - 🌱 **Philosophy:** "Learning by shipping" — building real things to master complex systems.
-
----
 
 ### 🛠️ Tech Stack & Toolbox
 
@@ -55,9 +54,12 @@ Bonjour, je suis étudiante 👋 I am focusing on the intersection of **AI & Cyb
 *   **[telefs](https://github.com/nmhuei/telefs)** — **TeleFS** (Telegram File System) — Using Telegram's storage capability as an interactive filesystem.
 *   **[Turnstile-Solver](https://github.com/nmhuei/Turnstile-Solver)** — Python-based solution for bypassing Cloudflare Turnstile challenges.
 
-### 🐍 Snake Eating My Contribution Board
+---
 
-<p align="center">
+### 📊 GitHub Analytics
+
+#### 🐍 Contribution Snake
+<p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nmhuei/nmhuei/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nmhuei/nmhuei/output/github-contribution-grid-snake.svg">
@@ -65,11 +67,8 @@ Bonjour, je suis étudiante 👋 I am focusing on the intersection of **AI & Cyb
   </picture>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
+#### 📈 Statistics & Language Metrics
+<p align="left">
   <a href="https://github.com/nmhuei">
     <img src="https://github-readme-stats.vercel.app/api?username=nmhuei&show_icons=true&theme=tokyonight&count_private=true" alt="nmhuei's GitHub Stats" width="48%" />
   </a>
