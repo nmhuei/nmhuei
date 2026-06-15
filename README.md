@@ -43,9 +43,9 @@ Bonjour, je suis étudiante 👋 I am focusing on the intersection of **AI & Cyb
 *   **[botquanganh_mcp](https://github.com/nmhuei/botquanganh_mcp)** — An advanced Model Context Protocol (MCP) server enabling AI agents to autonomously solve CTF (pwn/web) challenges. Features isolated Docker runner environments, network probing, and secure shell/workspace tools.
 *   **[chatCLI](https://github.com/nmhuei/chatCLI)** — A decentralized terminal chat client written in **Rust** using `ratatui`. Built with end-to-end encryption (Diffie-Hellman & AES-256-GCM), UPnP port forwarding, and **MCP integration** to chat with AI agents in TUI.
 
-#### 🤖 Automation & Bots
-*   **[zalo-zca-bot](https://github.com/nmhuei/zalo-zca-bot)** — An unofficial Zalo chatbot platform implemented in **TypeScript** using the `zca-js` library.
-*   **[Turnstile-Solver](https://github.com/nmhuei/Turnstile-Solver)** — Python-based automation scripts for solving and bypassing Cloudflare Turnstile security challenges.
+#### 🤖 AI Integration & Automation
+*   **[ai-quick-ask](https://github.com/nmhuei/ai-quick-ask)** — A Chrome extension that allows highlighting text on any webpage to query a local **Ollama** LLM instance (llama3, mistral, etc.) instantly with custom key shortcuts and settings.
+*   **[email_blaster](https://github.com/nmhuei/email_blaster)** — An automated CLI batch email sender using SendGrid API, featuring custom template placeholder injection, rate limiting, attachments, and dry-run safety modes.
 
 ---
 
