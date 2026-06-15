@@ -50,25 +50,14 @@ Bonjour, je suis étudiante 👋 I am focusing on the intersection of **AI & Cyb
 
 ---
 
-### 📊 GitHub Analytics
+### 🐍 Snake Eating My Contribution Board
 
-#### 🐍 Contribution Snake
-<p align="left">
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nmhuei/nmhuei/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nmhuei/nmhuei/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nmhuei/nmhuei/output/github-contribution-grid-snake.svg">
   </picture>
-</p>
-
-#### 📈 Statistics & Language Metrics
-<p align="left">
-  <a href="https://github.com/nmhuei">
-    <img src="https://github-readme-stats.vercel.app/api?username=nmhuei&show_icons=true&theme=tokyonight&count_private=true" alt="nmhuei's GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/nmhuei">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmhuei&layout=compact&theme=tokyonight" alt="nmhuei's Top Languages" width="48%" />
-  </a>
 </p>
 
 ---
