@@ -39,14 +39,14 @@ Bonjour, je suis étudiante 👋 I am focusing on the intersection of **AI & Cyb
 
 ### 🚀 Featured Projects
 
-#### 🤖 AI & Model Context Protocol (MCP)
-*   **[gpt-mcp-auto-agent](https://github.com/nmhuei/gpt-mcp-auto-agent)** — An autonomous agent built to orchestrate and work with Model Context Protocol servers.
-*   **[GhidraMCP](https://github.com/nmhuei/GhidraMCP)** & **[ida-pro-mcp](https://github.com/nmhuei/ida-pro-mcp)** — MCP integrations for Ghidra and IDA Pro to bring AI-assisted analysis and automation directly into reverse engineering environments.
+#### 🛡️ AI-Powered Security Tools
+*   **[GhidraMCP](https://github.com/nmhuei/GhidraMCP) & [ida-pro-mcp](https://github.com/nmhuei/ida-pro-mcp)** — Model Context Protocol (MCP) integrations bringing LLM intelligence, automated disassembly, and code analysis directly inside Ghidra and IDA Pro.
+*   **[gpt-mcp-auto-agent](https://github.com/nmhuei/gpt-mcp-auto-agent)** — An autonomous AI agent runner designed to coordinate complex tasks across various MCP tools and servers.
 
-#### 💬 Messaging Bots & Automation
-*   **[zalo-zca-bot](https://github.com/nmhuei/zalo-zca-bot)** — An unofficial Zalo chatbot wrapper utilizing the `zca-js` library.
-*   **[telefs](https://github.com/nmhuei/telefs)** — **TeleFS** (Telegram File System) — Using Telegram's storage capability as an interactive filesystem.
-*   **[Turnstile-Solver](https://github.com/nmhuei/Turnstile-Solver)** — Python-based solution for bypassing Cloudflare Turnstile challenges.
+#### 🤖 Chatbots & Smart Automation
+*   **[zalo-zca-bot](https://github.com/nmhuei/zalo-zca-bot)** — A TypeScript-based chatbot framework built on top of the unofficial Zalo client library (`zca-js`).
+*   **[telefs](https://github.com/nmhuei/telefs)** — A custom virtual filesystem (VFS) leveraging Telegram storage for interactive file management.
+*   **[Turnstile-Solver](https://github.com/nmhuei/Turnstile-Solver)** — Automated solver script designed to handle Cloudflare Turnstile security verifications.
 
 ---
 
