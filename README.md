@@ -39,14 +39,13 @@ Bonjour, je suis étudiante 👋 I am focusing on the intersection of **AI & Cyb
 
 ### 🚀 Featured Projects
 
-#### 🛡️ AI-Powered Security Tools
-*   **[GhidraMCP](https://github.com/nmhuei/GhidraMCP) & [ida-pro-mcp](https://github.com/nmhuei/ida-pro-mcp)** — Model Context Protocol (MCP) integrations bringing LLM intelligence, automated disassembly, and code analysis directly inside Ghidra and IDA Pro.
-*   **[gpt-mcp-auto-agent](https://github.com/nmhuei/gpt-mcp-auto-agent)** — An autonomous AI agent runner designed to coordinate complex tasks across various MCP tools and servers.
+#### 🛡️ AI & Cybersecurity (MCP Tools)
+*   **[botquanganh_mcp](https://github.com/nmhuei/botquanganh_mcp)** — An advanced Model Context Protocol (MCP) server enabling AI agents to autonomously solve CTF (pwn/web) challenges. Features isolated Docker runner environments, network probing, and secure shell/workspace tools.
+*   **[chatCLI](https://github.com/nmhuei/chatCLI)** — A decentralized terminal chat client written in **Rust** using `ratatui`. Built with end-to-end encryption (Diffie-Hellman & AES-256-GCM), UPnP port forwarding, and **MCP integration** to chat with AI agents in TUI.
 
-#### 🤖 Chatbots & Smart Automation
-*   **[zalo-zca-bot](https://github.com/nmhuei/zalo-zca-bot)** — A TypeScript-based chatbot framework built on top of the unofficial Zalo client library (`zca-js`).
-*   **[telefs](https://github.com/nmhuei/telefs)** — A custom virtual filesystem (VFS) leveraging Telegram storage for interactive file management.
-*   **[Turnstile-Solver](https://github.com/nmhuei/Turnstile-Solver)** — Automated solver script designed to handle Cloudflare Turnstile security verifications.
+#### 🤖 Automation & Bots
+*   **[zalo-zca-bot](https://github.com/nmhuei/zalo-zca-bot)** — An unofficial Zalo chatbot platform implemented in **TypeScript** using the `zca-js` library.
+*   **[Turnstile-Solver](https://github.com/nmhuei/Turnstile-Solver)** — Python-based automation scripts for solving and bypassing Cloudflare Turnstile security challenges.
 
 ---
 
