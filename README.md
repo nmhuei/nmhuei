@@ -17,12 +17,12 @@
 
 ### 📍 About Me
 
-I am a **Security Researcher & AI Developer** focusing on the intersection of **Artificial Intelligence and Cyber Security**. I build autonomous agents, design Model Context Protocol (MCP) servers to automate binary analysis, and develop tools to streamline vulnerability research.
+> *"Driven by the thrill of learning new things and solving complex problems."*
+
+Bonjour, je suis étudiante 👋 I am focusing on the intersection of **AI & Cyber Security**, with active interests in **Computer Vision**, **Speech-to-Text**, and building custom automation tools.
 
 - 🏠 **Location:** Cầu Giấy, Hà Nội, Vietnam
-- 🛡️ **Core Focus:** AI-powered Reverse Engineering, Vulnerability Auditing, & Smart Automation.
-- 🤖 **Specialties:** Model Context Protocol (MCP), LLM agents, and custom security tooling.
-- 🌱 **Philosophy:** *"Learning by shipping"* — I believe the best way to understand security concepts and AI mechanics is by building and deploying functional tools.
+- 🌱 **Philosophy:** "Learning by shipping" — building real things to master complex systems.
 
 ---
 
