@@ -212,10 +212,10 @@ graph TB
   <table>
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nmhuei&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&include_all_commits=true" alt="GitHub Stats" />
+        <img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=nmhuei&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&include_all_commits=true" alt="GitHub Stats" />
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmhuei&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&exclude_repo=nmhuei" alt="Top Languages" />
+        <img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=nmhuei&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&exclude_repo=nmhuei" alt="Top Languages" />
       </td>
     </tr>
   </table>
