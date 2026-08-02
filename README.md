@@ -3,12 +3,15 @@
 ## Contact
 
 - GitHub: [nmhuei](https://github.com/nmhuei)
-- Email: [you@example.com](mailto:you@example.com) <!-- replace with your real email -->
-- LinkedIn: [your-handle](https://www.linkedin.com/in/your-handle) <!-- replace with your real profile -->
+- Email: [absolute3k@gmail.com](mailto:absolute3k@gmail.com)
 
 ## Stack
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="40" height="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40">
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Pascal](https://img.shields.io/badge/Pascal-7A7A7A?style=for-the-badge)
 
 ## Activity
 
