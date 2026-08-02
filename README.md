@@ -13,13 +13,6 @@
 - GitHub: [nmhuei](https://github.com/nmhuei)
 - Email: [absolute3k@gmail.com](mailto:absolute3k@gmail.com)
 
-## Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nmhuei&theme=github-dark">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nmhuei&theme=github-light">
-</picture>
-
 ## Rankings
 
 [![Codeforces](https://codeforces-readme-stats.vercel.app/api/card?username=nmh_asin)](https://codeforces.com/profile/nmh_asin)
