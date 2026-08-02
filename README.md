@@ -1,10 +1,12 @@
 # Huei
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=6E7681&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi%2C+I%27m+Huei;Cyber+Security)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi%2C+I%27m+Huei;Cyber+Security)
 
 ## Stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmhuei&layout=compact&hide_border=true&theme=transparent&disable_animations=true&langs_count=6&hide=HTML,CSS)
+![Skills](https://skillicons.dev/icons?i=rust,python,c,cpp)
+
+![Top Langs](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=nmhuei&layout=compact&hide_border=true&theme=transparent&disable_animations=true&langs_count=6&hide=HTML,CSS)
 
 ## Activity
 
