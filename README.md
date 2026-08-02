@@ -6,8 +6,6 @@
 
 ![Skills](https://skillicons.dev/icons?i=rust,python,c,cpp)
 
-![Top Langs](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=nmhuei&layout=compact&hide_border=true&theme=transparent&disable_animations=true&langs_count=6&hide=HTML,CSS)
-
 ## Activity
 
 <picture>
