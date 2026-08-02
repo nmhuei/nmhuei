@@ -1,5 +1,3 @@
-# Huei
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi%2C+I%27m+Huei;Cyber+Security)
 
 ## Contact
