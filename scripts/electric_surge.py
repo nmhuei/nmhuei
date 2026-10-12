@@ -125,7 +125,40 @@ def convert(source, dark=False):
         arc_group.append(polygon)
 
     head = node('g', {'class': segments[0].get('class')})
-    head.append(node('path', {'class':'leader', 'd':'M 10,-3 1,9 7,9 4,20 16,5 10,5 14,-3 Z'}))
+    # A compact plasma tip follows the direction of travel and joins the arc
+    # at its center. Keep rotation separate from snk's translation animation.
+    halo = node('radialGradient', {'id': 'leader-halo'})
+    for offset, color_value, opacity in [('0%', '#FFFDE0', '0.8'),
+                                          ('35%', '#FFE600', '0.35'),
+                                          ('100%', '#FFE600', '0')]:
+        halo.append(node('stop', {'offset': offset, 'stop-color': color_value,
+                                 'stop-opacity': opacity}))
+    defs.append(halo)
+    center = node('g', {'transform': 'translate(8 8)'})
+    leader = node('g', {'class': 'leader'})
+    tip = node('g')
+    angles = []
+    for index, (time, point) in enumerate(tracks[0][:-1]):
+        following = tracks[0][index + 1][1]
+        dx, dy = following[0] - point[0], following[1] - point[1]
+        angle = math.degrees(math.atan2(dy, dx)) if dx or dy else (angles[-1] if angles else 0)
+        angles.append(angle)
+    angles.append(angles[0])
+    tip.set('transform', f'rotate({angles[0]})')
+    tip.append(node('animateTransform', {
+        'attributeName': 'transform', 'type': 'rotate', 'calcMode': 'discrete',
+        'dur': f'{duration}ms', 'repeatCount': 'indefinite',
+        'keyTimes': ';'.join(f'{t / 100:.8f}' for t, _ in tracks[0]),
+        'values': ';'.join(f'{angle:.3f}' for angle in angles)}))
+    tip.append(node('ellipse', {'cx': '0', 'cy': '0', 'rx': '9', 'ry': '6',
+                                'fill': 'url(#leader-halo)'}))
+    tip.append(node('path', {'d': 'M 7,0 Q 0,-4.5 -6,-2.4 L -3,0 L -6,2.4 Q 0,4.5 7,0 Z',
+                             'fill': '#FFE600', 'fill-opacity': '.85'}))
+    tip.append(node('path', {'d': 'M 6,0 Q 0,-2.3 -4,0 Q 0,2.3 6,0 Z',
+                             'fill': '#FFFDE8'}))
+    leader.append(tip)
+    center.append(leader)
+    head.append(center)
     for segment in segments:
         root.remove(segment)
     root.append(head)
@@ -150,8 +183,8 @@ def convert(source, dark=False):
     palette = ('#161b22','#3b1566','#7928ca','#00d2ff','#ffe600') if dark else ('#ebedf0','#ded2f2','#ad7bd9','#008d9a','#9b7400')
     css += ':root{' + ';'.join(f'--c{i}:{v}' for i,v in enumerate(palette)) + f';--ce:{palette[0]}' + '}'
     css += '''.plasma{filter:drop-shadow(0 0 3px #00F5FF)}
-.leader{fill:#FFF7A0;stroke:#FFE600;stroke-width:.7;filter:drop-shadow(0 0 8px #FFE600);animation:surge-flicker 83ms steps(1,end) infinite}
-@keyframes surge-flicker{0%,100%{opacity:1}35%{opacity:.55}70%{opacity:.9}}
+.leader{filter:drop-shadow(0 0 4px #FFE600);animation:surge-flicker 83ms steps(1,end) infinite}
+@keyframes surge-flicker{0%,100%{opacity:1}35%{opacity:.78}70%{opacity:.94}}
 @media(prefers-reduced-motion:reduce){.leader{animation:none}}
 '''
     style.text = css
