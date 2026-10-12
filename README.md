@@ -1,23 +1,33 @@
-<img src="assets/header.svg" alt="nmhuei" width="360" height="64">
+<p align="center">
+  <img src="assets/profile-header.webp" alt="nmhuei — Cybersecurity, CTF, systems" width="100%">
+</p>
 
-<sub>Nguyễn Minh Hiếu · Hanoi, Vietnam</sub>
+<p align="center">
+  <sub>CYBERSECURITY STUDENT · CTF PLAYER · RUST &amp; PYTHON</sub>
+</p>
 
-Cybersecurity student and CTF player. I build security tools and automation with Rust and Python.
+<img src="assets/profile-about.svg" alt="Operator profile for Nguyễn Minh Hiếu" width="100%">
 
-### Projects
+<img src="assets/profile-operations.svg" alt="Selected operations" width="100%">
 
-**[bqa-mcp](https://github.com/nmhuei/bqa-mcp)**  
-MCP host and desktop studio for local tools with isolated workspaces.
+<a href="https://github.com/nmhuei/bqa-mcp">
+  <img src="assets/project-bqa-mcp.svg" alt="bqa-mcp — MCP host and desktop studio for local tools" width="100%">
+</a>
 
-**[ctf-toolkit](https://github.com/nmhuei/ctf-toolkit)**  
-Challenge management and solver automation for CTFs.
+<a href="https://github.com/nmhuei/ctf-toolkit">
+  <img src="assets/project-ctf-toolkit.svg" alt="ctf-toolkit — Challenge management and solver automation for CTFs" width="100%">
+</a>
 
-**[gpt_cli](https://github.com/nmhuei/gpt_cli)**  
-ChatGPT in the terminal, with a local API gateway.
+<a href="https://github.com/nmhuei/gpt_cli">
+  <img src="assets/project-gpt-cli.svg" alt="gpt_cli — ChatGPT in the terminal with a local API gateway" width="100%">
+</a>
 
-**[opencode2claude](https://github.com/nmhuei/opencode2claude)**  
-Connect Claude Code to OpenCode model backends.
+<a href="https://github.com/nmhuei/opencode2claude">
+  <img src="assets/project-opencode2claude.svg" alt="opencode2claude — Bridge Claude Code and OpenCode model backends" width="100%">
+</a>
 
-### Contact
+<img src="assets/profile-contact.svg" alt="Secure channel" width="100%">
 
-[Email](mailto:absolute3k@gmail.com) · [Codeforces](https://codeforces.com/profile/nmh_asin)
+<p align="center">
+  <a href="mailto:absolute3k@gmail.com">Email</a> · <a href="https://codeforces.com/profile/nmh_asin">Codeforces</a> · <a href="https://github.com/nmhuei">GitHub</a>
+</p>
