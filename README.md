@@ -28,6 +28,14 @@
 
 <img src="assets/profile-contact.svg" alt="Secure channel" width="100%">
 
-<p align="center">
-  <a href="mailto:absolute3k@gmail.com">Email</a> · <a href="https://codeforces.com/profile/nmh_asin">Codeforces</a> · <a href="https://github.com/nmhuei">GitHub</a>
-</p>
+<a href="mailto:absolute3k@gmail.com">
+  <img src="assets/contact-email.svg" alt="Email absolute3k@gmail.com" width="100%">
+</a>
+
+<a href="https://codeforces.com/profile/nmh_asin">
+  <img src="assets/contact-codeforces.svg" alt="Codeforces nmh_asin" width="100%">
+</a>
+
+<a href="https://github.com/nmhuei">
+  <img src="assets/contact-github.svg" alt="GitHub nmhuei" width="100%">
+</a>
