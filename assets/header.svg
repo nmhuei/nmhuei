@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="64" viewBox="0 0 360 64" role="img" aria-labelledby="title desc">
+  <title id="title">nmhuei</title>
+  <desc id="desc">A minimal terminal prompt: ~/nmhuei.</desc>
+  <style>
+    .prompt { fill: #64748b; }
+    .name { fill: #087f5b; }
+    @media (prefers-color-scheme: dark) {
+      .prompt { fill: #8b949e; }
+      .name { fill: #63e6be; }
+    }
+  </style>
+  <text x="0" y="46" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="42" font-weight="600" letter-spacing="-1"><tspan class="prompt">~/</tspan><tspan class="name">nmhuei</tspan></text>
+</svg>
