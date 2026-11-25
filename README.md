@@ -1,35 +1,31 @@
-```text
-╭──────────────────────────────────────────────────────────────────────────────────────╮
-│                                                                                      │
-│   ███╗   ██╗███╗   ███╗██╗  ██╗██╗   ██╗███████╗██╗     HANOI · VIETNAM              │
-│   ████╗  ██║████╗ ████║██║  ██║██║   ██║██╔════╝██║     USTH · CYBER SECURITY        │
-│   ██╔██╗ ██║██╔████╔██║███████║██║   ██║█████╗  ██║     TEAM · USTH_Ex0dia           │
-│   ██║╚██╗██║██║╚██╔╝██║██╔══██║██║   ██║██╔══╝  ██║     LEAD · UCS TECHNICAL         │
-│   ██║ ╚████║██║ ╚═╝ ██║██║  ██║╚██████╔╝███████╗██║     MIND · STAY DISCIPLINED      │
-│   ╚═╝  ╚═══╝╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝                                  │
-│                                                                                      │
-├──────────────────────────────────────────────────────────────────────────────────────┤
-│  $ whoami                                                                            │
-│    Nguyen Minh Hieu — Cyber Security student at USTH.                                │
-│    Highly self-disciplined and self-driven; I prefer understanding systems           │
-│    from first principles rather than treating them as black boxes.                   │
-├──────────────────────────────────────────┬───────────────────────────────────────────┤
-│  FOCUS                                   │  TOOLBOX                                  │
-│  ├─ Reverse Engineering                  │  ├─ Langs     C · Python · JS · Bash      │
-│  ├─ C Memory Safety & Fuzzing            │  ├─ Binary    IDA Pro · Ghidra · GDB      │
-│  ├─ Linux Internals & Sandboxing         │  ├─ Systems   Linux · Docker · Bubblewrap │
-│  └─ Web Protocol & Anti-Bot Analysis     │  └─ Web/CTF   Burp Suite · Pwn · Crypto   │
-├──────────────────────────────────────────┴───────────────────────────────────────────┤
-│  CTF & COMMUNITY                                                                     │
-│  ├─ DDC 2026 Finals        Honorable Mention · Top 5/25 (no-AI onsite)               │
-│  ├─ SVANM 2026             Third Prize, Group B · team USTH_Ex0dia                   │
-│  ├─ MTA CTF 2026           Most First Bloods Award                                   │
-│  └─ UCS Security Club      Head of Technical Division · CTF challenge author         │
-╰──────────────────────────────────────────────────────────────────────────────────────╯
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/masthead-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/masthead-light.svg">
+  <img alt="Nguyen Minh Hieu" src="assets/masthead-dark.svg" width="100%">
+</picture>
 
-<p align="center">
-  <a href="https://ctftime.org/user/261154">ctftime</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:absolute3k@gmail.com">absolute3k@gmail.com</a>
-</p>
+<br/>
+
+Cyber Security student at **USTH** (Hanoi, Vietnam), studying how software behaves when pushed past its assumptions. I work with quiet self-discipline — digging into binaries and stubborn edge cases on my own until the mechanics are clear.
+
+#### Focus
+
+- **Reverse Engineering** — Static and dynamic binary analysis (`IDA Pro`, `Ghidra`).
+- **Memory & Pwn** — C memory safety, fuzzing, and x86-64 exploitation (`libFuzzer`, `GDB`).
+- **Linux & Isolation** — Linux internals and process sandboxing (`Docker`, `Bubblewrap`).
+- **Web Protocols & Crypto** — Protocol reverse engineering, client-side anti-bot analysis (`Burp Suite`), and cryptography.
+
+#### Community
+
+- **USTH Cyber Security Club (UCS)** — Head of Technical Division; challenge authoring and monthly hands-on sessions.
+- **USTH_Ex0dia** — Competitive CTF team (DDC onsite finalist · SVANM · MTA CTF).
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/rule-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/rule-light.svg">
+  <img alt="" src="assets/rule-dark.svg" width="100%">
+</picture>
+
+[ctftime.org/user/261154](https://ctftime.org/user/261154) &nbsp;·&nbsp; [absolute3k@gmail.com](mailto:absolute3k@gmail.com)
