@@ -1,4 +1,4 @@
-### Nguyen Minh Hieu (`nmhuei`)
+### Nguyen Minh Hieu
 
 Cyber Security student at USTH · Hanoi, Vietnam.  
 Highly self-disciplined and self-driven — I prefer understanding systems from first principles.
