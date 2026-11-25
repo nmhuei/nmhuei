@@ -27,7 +27,7 @@
   </defs>
 
   <g clip-path="url(#outerClip-dark)">
-    <rect x="0" y="0" width="840" height="432" fill="#0D1117"/>
+    
 
     <!-- LEFT ART PANEL: Isometric Wireframe Monolith + Technical Drafting Frame -->
     <g clip-path="url(#artClip-dark)">
@@ -115,14 +115,13 @@
     <line x1="320" y1="62" x2="418" y2="62" stroke="#D29268" stroke-width="2"/>
 
     <!-- Personal bio + self-discipline -->
-    <text x="320" y="90" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#E6EDF3">Nguyen Minh Hieu</text>
-    <text x="444" y="90" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.2" fill="#7D8590">— Cyber Security student at USTH.</text>
+    <text x="320" y="90" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.8"><tspan font-weight="600" fill="#E6EDF3">Nguyen Minh Hieu</tspan><tspan fill="#7D8590"> — Cyber Security student at USTH.</tspan></text>
     <text x="320" y="114" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.2" fill="#B1BAC4">Highly self-disciplined; digging into systems from first principles.</text>
 
     <line x1="320" y1="128" x2="812" y2="128" stroke="#212832" stroke-width="1"/>
 
     <!-- Spec rows -->
-    <text x="320" y="156" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.2"><tspan fill="#D29268" font-weight="600">Focus.RE</tspan><tspan fill="#3B4452"> ····· </tspan><tspan fill="#E6EDF3">Binary analysis (IDA Pro, Ghidra)</tspan></text><text x="320" y="184" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.2"><tspan fill="#D29268" font-weight="600">Focus.Mem</tspan><tspan fill="#3B4452"> ···· </tspan><tspan fill="#E6EDF3">C fuzzing &amp; memory safety (libFuzzer, GDB)</tspan></text><text x="320" y="212" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.2"><tspan fill="#D29268" font-weight="600">Focus.Sys</tspan><tspan fill="#3B4452"> ···· </tspan><tspan fill="#E6EDF3">Linux internals, Docker, Bubblewrap</tspan></text><text x="320" y="240" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.2"><tspan fill="#D29268" font-weight="600">Focus.Web</tspan><tspan fill="#3B4452"> ···· </tspan><tspan fill="#E6EDF3">Protocol RE, anti-bot (Burp Suite), Crypto</tspan></text><line x1="320" y1="258" x2="812" y2="258" stroke="#212832" stroke-width="1"/><text x="320" y="282" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.2"><tspan fill="#79C0FF" font-weight="600">Languages</tspan><tspan fill="#3B4452"> ···· </tspan><tspan fill="#E6EDF3">C · Python · JavaScript · Bash</tspan></text><text x="320" y="310" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.2"><tspan fill="#56D364" font-weight="600">Team</tspan><tspan fill="#3B4452"> ········· </tspan><tspan fill="#E6EDF3">USTH_Ex0dia (DDC Top 5/25 · SVANM · MTA)</tspan></text><text x="320" y="338" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.2"><tspan fill="#D2A8FF" font-weight="600">Club</tspan><tspan fill="#3B4452"> ········· </tspan><tspan fill="#E6EDF3">Head of Technical Division @ UCS</tspan></text>
+    <text x="320" y="156" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.2"><tspan fill="#D29268" font-weight="600">Focus.RE</tspan><tspan fill="#3B4452"> ····· </tspan><tspan fill="#E6EDF3">Binary analysis (IDA Pro, Ghidra)</tspan></text><text x="320" y="184" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.2"><tspan fill="#D29268" font-weight="600">Focus.Mem</tspan><tspan fill="#3B4452"> ···· </tspan><tspan fill="#E6EDF3">C fuzzing &amp; memory safety (libFuzzer, GDB)</tspan></text><text x="320" y="212" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.2"><tspan fill="#D29268" font-weight="600">Focus.Sys</tspan><tspan fill="#3B4452"> ···· </tspan><tspan fill="#E6EDF3">Linux internals, Docker, Bubblewrap</tspan></text><text x="320" y="240" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.2"><tspan fill="#D29268" font-weight="600">Focus.Web</tspan><tspan fill="#3B4452"> ···· </tspan><tspan fill="#E6EDF3">Protocol RE, anti-bot (Burp Suite), Crypto</tspan></text><line x1="320" y1="258" x2="812" y2="258" stroke="#212832" stroke-width="1"/><text x="320" y="282" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.2"><tspan fill="#79C0FF" font-weight="600">Languages</tspan><tspan fill="#3B4452"> ···· </tspan><tspan fill="#E6EDF3">C · Python · JavaScript · Bash</tspan></text><text x="320" y="310" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.2"><tspan fill="#56D364" font-weight="600">Team</tspan><tspan fill="#3B4452"> ········· </tspan><tspan fill="#E6EDF3">USTH_Ex0dia (DDC Top 5/25 · SVANM · MTA)</tspan></text><text x="320" y="338" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.2"><tspan fill="#D2A8FF" font-weight="600">Club</tspan><tspan fill="#3B4452"> ········· </tspan><tspan fill="#E6EDF3">Head of Technical Division at UCS</tspan></text>
 
     <line x1="320" y1="368" x2="812" y2="368" stroke="#212832" stroke-width="1"/>
 
@@ -132,5 +131,5 @@
     <rect class="blink" x="803" y="387" width="7" height="12" rx="1" fill="#D29268"/>
   </g>
 
-  <rect x="1" y="1" width="838" height="430" rx="14" fill="none" stroke="#26303D" stroke-width="1.2"/>
+  
 </svg>
