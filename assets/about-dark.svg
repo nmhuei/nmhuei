@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="198" viewBox="0 0 900 198" role="img" aria-label="About Hieu terminal">
+  <defs>
+    <clipPath id="clipAbout-dark">
+      <rect x="1" y="1" width="898" height="196" rx="14"/>
+    </clipPath>
+    <style>
+      @keyframes blink2 { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+      .cur { animation: blink2 1.1s step-end infinite; }
+    </style>
+  </defs>
+
+  <g clip-path="url(#clipAbout-dark)">
+    <rect x="0" y="0" width="900" height="198" fill="#131922"/>
+    <!-- Title bar -->
+    <rect x="0" y="0" width="900" height="36" fill="#1B2330"/>
+    <line x1="0" y1="36" x2="900" y2="36" stroke="#263040" stroke-width="1"/>
+
+    <circle cx="22" cy="18" r="5.5" fill="#FF5F56"/>
+    <circle cx="40" cy="18" r="5.5" fill="#FFBD2E"/>
+    <circle cx="58" cy="18" r="5.5" fill="#27C93F"/>
+    <text x="450" y="22" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" font-weight="600" fill="#8B949E">nmhuei@hanoi — ~/about.txt</text>
+
+    <!-- Terminal lines -->
+    <g transform="translate(28, 66)" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">
+      <text x="0" y="0" fill="#3FB950" font-weight="700">$</text>
+      <text x="16" y="0" fill="#58A6FF" font-weight="600">whoami</text>
+      <text x="150" y="0" fill="#F0F6FC">Nguyen Minh Hieu · Final-year Cyber Security student at USTH.</text>
+
+      <text x="0" y="30" fill="#3FB950" font-weight="700">$</text>
+      <text x="16" y="30" fill="#58A6FF" font-weight="600">mindset</text>
+      <text x="150" y="30" fill="#F0F6FC" font-weight="600">Highly self-disciplined and self-driven — I learn from first principles.</text>
+
+      <text x="0" y="60" fill="#3FB950" font-weight="700">$</text>
+      <text x="16" y="60" fill="#58A6FF" font-weight="600">focus</text>
+      <text x="150" y="60" fill="#8B949E">Reverse engineering, C memory safety, Linux internals, and web protocols.</text>
+
+      <text x="0" y="90" fill="#3FB950" font-weight="700">$</text>
+      <text x="16" y="90" fill="#58A6FF" font-weight="600">community</text>
+      <text x="150" y="90" fill="#8B949E">CTF player (USTH_Ex0dia) &amp; Head of Technical Division at UCS.</text>
+
+      <text x="0" y="116" fill="#3FB950" font-weight="700">$</text>
+      <rect class="cur" x="16" y="104" width="8" height="14" rx="1.5" fill="#3FB950"/>
+    </g>
+  </g>
+
+  <rect x="1" y="1" width="898" height="196" rx="14" fill="none" stroke="#263040" stroke-width="1.2"/>
+</svg>

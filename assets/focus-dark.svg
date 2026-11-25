@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="146" viewBox="0 0 900 146" role="img" aria-label="Core Focus Areas">
+  <!-- Card 1: Low-Level & Memory -->
+  <g transform="translate(0, 2)">
+    <rect x="1" y="1" width="286" height="140" rx="14" fill="#131922" stroke="#263040" stroke-width="1.2"/>
+    <rect x="20" y="1" width="64" height="3" rx="1.5" fill="#3FB950"/>
+    <!-- Chip icon -->
+    <g transform="translate(22, 22)">
+      <rect x="0" y="0" width="32" height="32" rx="8" fill="#12261E" stroke="#1F4D35" stroke-width="1"/>
+      <rect x="10" y="10" width="12" height="12" rx="2" fill="none" stroke="#3FB950" stroke-width="1.6"/>
+      <line x1="13" y1="6" x2="13" y2="10" stroke="#3FB950" stroke-width="1.5"/>
+      <line x1="19" y1="6" x2="19" y2="10" stroke="#3FB950" stroke-width="1.5"/>
+      <line x1="13" y1="22" x2="13" y2="26" stroke="#3FB950" stroke-width="1.5"/>
+      <line x1="19" y1="22" x2="19" y2="26" stroke="#3FB950" stroke-width="1.5"/>
+      <line x1="6" y1="16" x2="10" y2="16" stroke="#3FB950" stroke-width="1.5"/>
+      <line x1="22" y1="16" x2="26" y2="16" stroke="#3FB950" stroke-width="1.5"/>
+    </g>
+    <text x="66" y="36" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" font-weight="600" fill="#3FB950">01 // LOW-LEVEL</text>
+    <text x="66" y="53" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#F0F6FC">Memory &amp; Binaries</text>
+    <text x="22" y="84" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#8B949E">C fuzzing, binary analysis, and</text>
+    <text x="22" y="102" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#8B949E">tracking down memory bugs.</text>
+    <text x="22" y="126" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#6E7681">C · libFuzzer · IDA · Ghidra · GDB</text>
+  </g>
+
+  <!-- Card 2: Linux & Systems -->
+  <g transform="translate(306, 2)">
+    <rect x="1" y="1" width="286" height="140" rx="14" fill="#131922" stroke="#263040" stroke-width="1.2"/>
+    <rect x="20" y="1" width="64" height="3" rx="1.5" fill="#58A6FF"/>
+    <!-- Shield icon -->
+    <g transform="translate(22, 22)">
+      <rect x="0" y="0" width="32" height="32" rx="8" fill="#122136" stroke="#1F3F66" stroke-width="1"/>
+      <path d="M16 7 L23 10 V16 C23 20.5 19.8 23.8 16 25 C12.2 23.8 9 20.5 9 16 V10 Z" fill="none" stroke="#58A6FF" stroke-width="1.6" stroke-linejoin="round"/>
+      <polyline points="13,16 15.2,18.2 19.5,13.8" fill="none" stroke="#58A6FF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <text x="66" y="36" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" font-weight="600" fill="#58A6FF">02 // SYSTEMS</text>
+    <text x="66" y="53" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#F0F6FC">Linux &amp; Isolation</text>
+    <text x="22" y="84" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#8B949E">Sandboxing untrusted workloads</text>
+    <text x="22" y="102" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#8B949E">and Linux kernel primitives.</text>
+    <text x="22" y="126" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#6E7681">Linux · Docker · Bubblewrap · Bash</text>
+  </g>
+
+  <!-- Card 3: Protocols & CTF -->
+  <g transform="translate(612, 2)">
+    <rect x="1" y="1" width="286" height="140" rx="14" fill="#131922" stroke="#263040" stroke-width="1.2"/>
+    <rect x="20" y="1" width="64" height="3" rx="1.5" fill="#BC8CFF"/>
+    <!-- Terminal/Network icon -->
+    <g transform="translate(22, 22)">
+      <rect x="0" y="0" width="32" height="32" rx="8" fill="#211936" stroke="#3D2B66" stroke-width="1"/>
+      <circle cx="16" cy="16" r="8" fill="none" stroke="#BC8CFF" stroke-width="1.5"/>
+      <ellipse cx="16" cy="16" rx="3.8" ry="8" fill="none" stroke="#BC8CFF" stroke-width="1.3"/>
+      <line x1="8.5" y1="16" x2="23.5" y2="16" stroke="#BC8CFF" stroke-width="1.3"/>
+    </g>
+    <text x="66" y="36" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" font-weight="600" fill="#BC8CFF">03 // CRAFT</text>
+    <text x="66" y="53" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#F0F6FC">Protocols &amp; CTF</text>
+    <text x="22" y="84" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#8B949E">Web protocol reverse engineering,</text>
+    <text x="22" y="102" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#8B949E">Pwn/Crypto &amp; challenge design.</text>
+    <text x="22" y="126" font-family="'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" fill="#6E7681">Python · Burp Suite · Pwn · Crypto</text>
+  </g>
+</svg>
