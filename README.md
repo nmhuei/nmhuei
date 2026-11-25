@@ -1,12 +1,35 @@
-### Nguyen Minh Hieu
-
-Cyber Security student at USTH · Hanoi, Vietnam.  
-Highly self-disciplined and self-driven — I prefer understanding systems from first principles.
-
 ```text
-focus     reverse engineering · c memory safety · linux internals · web protocols
-tools     c · python · bash · linux · docker · gdb · ida · ghidra · burp suite
-team      USTH_Ex0dia (CTF) · Head of Technical Division @ UCS
+╭──────────────────────────────────────────────────────────────────────────────────────╮
+│                                                                                      │
+│   ███╗   ██╗███╗   ███╗██╗  ██╗██╗   ██╗███████╗██╗     HANOI · VIETNAM              │
+│   ████╗  ██║████╗ ████║██║  ██║██║   ██║██╔════╝██║     USTH · CYBER SECURITY        │
+│   ██╔██╗ ██║██╔████╔██║███████║██║   ██║█████╗  ██║     TEAM · USTH_Ex0dia           │
+│   ██║╚██╗██║██║╚██╔╝██║██╔══██║██║   ██║██╔══╝  ██║     LEAD · UCS TECHNICAL         │
+│   ██║ ╚████║██║ ╚═╝ ██║██║  ██║╚██████╔╝███████╗██║     MIND · STAY DISCIPLINED      │
+│   ╚═╝  ╚═══╝╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝                                  │
+│                                                                                      │
+├──────────────────────────────────────────────────────────────────────────────────────┤
+│  $ whoami                                                                            │
+│    Nguyen Minh Hieu — Cyber Security student at USTH.                                │
+│    Highly self-disciplined and self-driven; I prefer understanding systems           │
+│    from first principles rather than treating them as black boxes.                   │
+├──────────────────────────────────────────┬───────────────────────────────────────────┤
+│  FOCUS                                   │  TOOLBOX                                  │
+│  ├─ Reverse Engineering                  │  ├─ Langs     C · Python · JS · Bash      │
+│  ├─ C Memory Safety & Fuzzing            │  ├─ Binary    IDA Pro · Ghidra · GDB      │
+│  ├─ Linux Internals & Sandboxing         │  ├─ Systems   Linux · Docker · Bubblewrap │
+│  └─ Web Protocol & Anti-Bot Analysis     │  └─ Web/CTF   Burp Suite · Pwn · Crypto   │
+├──────────────────────────────────────────┴───────────────────────────────────────────┤
+│  CTF & COMMUNITY                                                                     │
+│  ├─ DDC 2026 Finals        Honorable Mention · Top 5/25 (no-AI onsite)               │
+│  ├─ SVANM 2026             Third Prize, Group B · team USTH_Ex0dia                   │
+│  ├─ MTA CTF 2026           Most First Bloods Award                                   │
+│  └─ UCS Security Club      Head of Technical Division · CTF challenge author         │
+╰──────────────────────────────────────────────────────────────────────────────────────╯
 ```
 
-[ctftime](https://ctftime.org/user/261154) · [absolute3k@gmail.com](mailto:absolute3k@gmail.com)
+<p align="center">
+  <a href="https://ctftime.org/user/261154">ctftime</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:absolute3k@gmail.com">absolute3k@gmail.com</a>
+</p>
