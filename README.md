@@ -16,14 +16,6 @@
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/focus-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/focus-light.svg">
-  <img alt="Focus Areas" src="assets/focus-dark.svg" width="100%">
-</picture>
-
-<br/>
-
 <p>
   <img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
   <img src="https://img.shields.io/badge/C-161B22?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C"/>
